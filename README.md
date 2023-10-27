@@ -54,5 +54,5 @@ For Detail Information (the Code given in Site is Fully Working).
 
 Aslo Refer :
 
-[Serial Programming/termios - Wikibooks, open books for an open world]     
-(https://en.wikibooks.org/wiki/Serial_Programming/termios)https://en.wikibooks.org/wiki/Serial_Programming/termios
+https://en.wikibooks.org/wiki/Serial_Programming/termios
+
